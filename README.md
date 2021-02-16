@@ -3,4 +3,5 @@ Streamlit app for the exploration data analysis of the earthquekes automatically
 
 You can watch it [here](https://mesetas-ai-picker.herokuapp.com/).
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of earthquake EDA app](https://github.com/dsiervo/earthquake_EDA/raw/master/Captura%20de%20pantalla%20de%202021-02-16%2010-47-19.png)
+![Image of earthquake EDA app](https://github.com/dsiervo/earthquake_EDA/raw/master/Captura%20de%20pantalla%20de%202021-02-16%2010-48-34.png)
