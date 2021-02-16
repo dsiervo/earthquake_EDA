@@ -3,5 +3,5 @@ numpy
 streamlit==0.76.0
 plotly-express==0.4.1
 matplotlib==2.1.0
-pandas==1.2.2
+pandas
 cmcrameri==1.2
