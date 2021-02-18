@@ -1,5 +1,5 @@
 # earthquake_EDA
-Streamlit app for the exploration data analysis of the earthquekes automatically detectected using EQTransformer and localized using SeisComP scanloc and scevent.
+Streamlit app for the exploration data analysis on earthquakes automatically detectected using EQTransformer and located using SeisComP's scanloc and scevent.
 
 You can watch it [here](https://mesetas-ai-picker.herokuapp.com/).
 
